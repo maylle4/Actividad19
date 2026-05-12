@@ -1,3 +1,5 @@
+print("Hello")
+#Este es un menú que pregunta al usuario qué quiere hacer y muestra submenús
 print("Bienvenido, este es un menú que pregunta al usuario qué quiere hacer y muestra submenús")
 menu = 0
 while menu != 3:
